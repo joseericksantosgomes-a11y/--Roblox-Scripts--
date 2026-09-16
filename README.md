@@ -6,7 +6,7 @@ This is where all my scripts are located. They are all obfuscated to prevent the
 
 Scriptblox: https://scriptblox.com/profile
 
-Receipts: https://rscripts.net/@Erickzzz
+Rscripts: https://rscripts.net/@Erickzzz
 
 # About Me
 

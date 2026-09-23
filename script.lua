@@ -1,0 +1,1 @@
+local _={84,101,115,116};local s="";for i=1,#_ do s=s..string.char(_[i]) end;return loadstring(s)()

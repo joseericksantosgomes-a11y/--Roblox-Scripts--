@@ -1,2 +1,0 @@
--- Safe: light obfuscation (no loadstring/require) — accepted by Scriptblox, Rscripts, etc.
-(function() Print("oi oi baka this is a test script") end)()

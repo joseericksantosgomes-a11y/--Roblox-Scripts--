@@ -17,3 +17,5 @@ Delta: https://deltaexploits.gg/delta-executor-android
 Ronix: https://ronix-executor.org/
 
 Codex: https://codexexe.com/
+
+Arceus: https://spdmteam.com/neo#downloads

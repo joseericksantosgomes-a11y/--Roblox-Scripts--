@@ -7,3 +7,9 @@ feel free To Take ONLY open source Scripts Obifuscated Ones Is Unallowed If I Se
 # How I Know If Its Open Source Or Not?
 
 For The Repository Organization i use OPNSC for Open Source Scripts and NOPSC for Not Open Source Scripts That's How You Know it (I know thi is dumb But i just wanna make it look cool)
+
+# Executors (if u want to download)
+
+Mobile Executors
+
+Delta: https://deltaexploits.gg/delta-executor-android

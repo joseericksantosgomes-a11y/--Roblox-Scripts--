@@ -21,4 +21,8 @@ Codex: https://codexexe.com/
 Arceus: https://spdmteam.com/neo#downloads
 
 Recomended Mobile Executors: Delta Or Arceus
+
 ------------------------------------------------------
+pc Executors
+
+Xeno (NOT FROM OFICIAL SOURCE, DOWNLOAD ON YOUR OWN RESPONSABILITY): https://xeno-executor.com/download/

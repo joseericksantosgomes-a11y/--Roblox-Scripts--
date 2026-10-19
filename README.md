@@ -13,3 +13,5 @@ For The Repository Organization i use OPNSC for Open Source Scripts and NOPSC fo
 Mobile Executors
 
 Delta: https://deltaexploits.gg/delta-executor-android
+
+Ronix: https://ronix-executor.org/

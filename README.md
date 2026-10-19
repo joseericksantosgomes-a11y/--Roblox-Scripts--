@@ -25,4 +25,14 @@ Recomended Mobile Executors: Delta Or Arceus
 ------------------------------------------------------
 pc Executors
 
-Xeno (NOT FROM OFICIAL SOURCE, DOWNLOAD ON YOUR OWN RESPONSABILITY): https://xeno-executor.com/download/
+Xeno: https://wearedevs.net/d/Xeno
+
+Solara: https://wearedevs.net/e/Solara
+
+JJSploit: https://wearedevs.net/d/JJSploit
+
+Pluto: https://wearedevs.net/d/Pluto
+
+Fluxus Z: https://wearedevs.net/d/Fluxus%20Z
+
+Drift: https://wearedevs.net/d/Drift

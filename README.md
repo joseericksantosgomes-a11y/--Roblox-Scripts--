@@ -20,7 +20,7 @@ Codex: https://codexexe.com/
 
 Arceus: https://spdmteam.com/neo#downloads
 
-Recomended Mobile Executors: Delta Or Arceus
+Recomended Mobile Executors: Delta, Arceus
 
 ------------------------------------------------------
 pc Executors
@@ -36,3 +36,5 @@ Pluto: https://wearedevs.net/d/Pluto
 Fluxus Z: https://wearedevs.net/d/Fluxus%20Z
 
 Drift: https://wearedevs.net/d/Drift
+
+Recomended Pc Executors: Xeno, Solara
